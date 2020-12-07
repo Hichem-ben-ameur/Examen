@@ -1,0 +1,27 @@
+{
+    "o:label": "Auteur",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "family_name",
+            "label": "family_name"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "firstName",
+            "label": "firstName"
+        }
+    ]
+}
